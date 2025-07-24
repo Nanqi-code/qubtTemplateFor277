@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/Nanqi-code/qubtTemplateFor277
 
 go 1.24.5
 
